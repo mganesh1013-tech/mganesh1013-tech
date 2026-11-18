@@ -84,6 +84,22 @@ Turning raw data into meaningful insights through analysis, visualization, and p
 
 ---
 
+
+---
+
+## 📈 GitHub Statistics
+
 <p align="center">
-  <i>Learning continuously | Building projects | Growing with data 🚀</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=mganesh1013-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mganesh1013-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mganesh1013-tech&theme=tokyonight&hide_border=true" />
+</p>
+
+
