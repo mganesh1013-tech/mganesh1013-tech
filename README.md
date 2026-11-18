@@ -41,7 +41,7 @@ Turning raw data into meaningful insights through analysis, visualization, and p
 
 ## 📂 Featured Projects
 
-### 1. Online Bookstore Data Analysis Using SQL
+### 1. [Online Bookstore Data Analysis Using SQL](https://github.com/mganesh1013-tech/Online-Bookstore-SQL-Project)
 - Analyzed bookstore sales, customer behavior, and order data using SQL.
 - Extracted business insights using PostgreSQL queries.
 - **Technologies:** PostgreSQL, SQL, CSV.
