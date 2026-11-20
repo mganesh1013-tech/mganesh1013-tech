@@ -48,7 +48,7 @@ Turning raw data into meaningful insights through analysis, visualization, and p
 - Extracted business insights using PostgreSQL queries.
 - **Technologies:** PostgreSQL, SQL, CSV.
 
-### 2. Advanced Smart Attendance System Using Biometrics
+### 2.[Advanced Smart Attendance System Using Biometrics](https://github.com/mganesh1013-tech/Smart-Attendance-System-Using-Biometrics)
 - Developed a biometric-based attendance system with database integration.
 - **Technologies:** ESP32, Arduino, PHP, MySQL.
 
