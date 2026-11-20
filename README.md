@@ -48,12 +48,8 @@ Turning raw data into meaningful insights through analysis, visualization, and p
 - Extracted business insights using PostgreSQL queries.
 - **Technologies:** PostgreSQL, SQL, CSV.
 
-### 2. Road Accident Data Analysis
-- Analyzed accident trends and risk factors using Python.
-- Performed data cleaning, EDA, and visualization.
-- **Technologies:** Python, Pandas, NumPy, Matplotlib.
 
-### 3. Advanced Smart Attendance System Using Biometrics
+### 2. Advanced Smart Attendance System Using Biometrics
 - Developed a biometric-based attendance system with database integration.
 - **Technologies:** ESP32, Arduino, PHP, MySQL.
 
